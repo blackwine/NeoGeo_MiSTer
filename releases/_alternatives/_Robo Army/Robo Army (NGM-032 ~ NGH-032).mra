@@ -1,6 +1,6 @@
 <misterromdescription>
 	<name>Robo Army (NGM-032 ~ NGH-032)</name>
-	<setname>roboarma</setname>
+	<setname>roboarmya</setname>
 	<mameversion>darksoft_neogeo</mameversion>
 	<rbf>NeoGeo-MVS</rbf>
 	<year>1991</year>
@@ -9,7 +9,7 @@
 	<joystick>8-way</joystick>
 	<rotation>horizontal</rotation>
 	<region>World</region>
-	<mratimestamp>20220105151618</mratimestamp>
+	<mratimestamp>20220306</mratimestamp>
 	<platform>Neo Geo MVS</platform>
 	<!-- bios -->
 	<rom address="0x38000000" index="0" zip="neogeo.zip" type="merged" md5="None">

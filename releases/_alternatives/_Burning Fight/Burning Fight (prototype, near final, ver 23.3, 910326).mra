@@ -1,6 +1,6 @@
 <misterromdescription>
 	<name>Burning Fight (prototype, near final, ver 23.3, 910326)</name>
-	<setname>brnngfpa</setname>
+	<setname>burningfpa</setname>
 	<mameversion>darksoft_neogeo</mameversion>
 	<rbf>NeoGeo-MVS</rbf>
 	<year>1991</year>
@@ -9,7 +9,7 @@
 	<joystick>8-way</joystick>
 	<rotation>horizontal</rotation>
 	<region>World</region>
-	<mratimestamp>20220104172608</mratimestamp>
+	<mratimestamp>20220306</mratimestamp>
 	<platform>Neo Geo MVS</platform>
 	<!-- bios -->
 	<rom address="0x38000000" index="0" zip="neogeo.zip" type="merged" md5="None">

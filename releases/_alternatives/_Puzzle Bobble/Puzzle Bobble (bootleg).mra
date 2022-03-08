@@ -1,6 +1,6 @@
 <misterromdescription>
 	<name>Puzzle Bobble (bootleg)</name>
-	<setname>pbbblenb</setname>
+	<setname>pbobblenb</setname>
 	<mameversion>darksoft_neogeo</mameversion>
 	<rbf>NeoGeo-MVS</rbf>
 	<year>1994</year>
@@ -9,7 +9,7 @@
 	<joystick>8-way</joystick>
 	<rotation>horizontal</rotation>
 	<region>World</region>
-	<mratimestamp>20220107113311</mratimestamp>
+	<mratimestamp>20220306</mratimestamp>
 	<platform>Neo Geo MVS</platform>
 	<!-- bios -->
 	<rom address="0x38000000" index="0" zip="neogeo.zip" type="merged" md5="None">
